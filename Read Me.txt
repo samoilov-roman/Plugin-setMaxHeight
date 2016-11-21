@@ -1,0 +1,19 @@
+
+=============================================
+	setMaxHeight.js v1.0
+=============================================
+
+This simple jQuery plugin allows to set
+equal heights to child elements.
+
+To connect the plugin just set css-selector
+of the PARENT ELEMENT in your JavaScript code:
+
+$(document).ready(function() {
+	$("css-selector").setMaxHeight();
+});
+
+=============================================
+  (c) 2016 Roman Samoilov
+=============================================
+ 
